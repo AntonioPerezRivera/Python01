@@ -7,7 +7,5 @@
 
 """
 
-for i in reversed(range(1,99)):
-
+for i in reversed(range(1,100)):
     print "%s bottles of beer on the wall, %s bottles of beer.\nTake one down, pass it around, %s bottles of beer on the wall.\n" % (i,i,i-1)
-
