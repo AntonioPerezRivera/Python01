@@ -3,7 +3,7 @@
 
 	Ejercicio 1 (Tarea 01) para la clase del dia 10/03/2015 de Sistemas Distribuidos
 	
-	Autores: Antonio Miguel Pérez Rivera - Rubén Rivas Troncoso
+	Autores: Antonio Miguel Perez Rivera - Ruben Rivas Troncoso
 
 """
 
